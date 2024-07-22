@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maskingen.github.io/sitemap
+Sitemap: https://maskingen.github.io/app/sitemap
+Sitemap: https://maskingen.github.io/assets/sitemap
+Sitemap: https://maskingen.github.io/css/sitemap
+Sitemap: https://maskingen.github.io/includes/sitemap
+Sitemap: https://maskingen.github.io/item/sitemap
+Sitemap: https://maskingen.github.io/src/sitemap
